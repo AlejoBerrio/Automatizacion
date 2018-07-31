@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="prueba.BusquedaReservaVuelos" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-31T02:48:50" hostname="Alejo-PC" time="8.628">
+  <properties/>
+  <testcase name="registro" classname="prueba.BusquedaReservaVuelos" time="8.628"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 43921
+Only local connections are allowed.
+jul 30, 2018 9:48:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
